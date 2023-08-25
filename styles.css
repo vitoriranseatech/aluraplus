@@ -24,3 +24,10 @@ body {
   height: 100vh;
   /* background-color: red; */
 }
+.container__botao {
+  background-color: var(--botao-azul);
+  border-radius: 20px;
+  padding: 1.5em;
+  color: var(--branco-principal);
+text-decoration: none;
+}
