@@ -33,4 +33,5 @@ body {
   padding: 1.em;
   color: var(--branco-principal);
 text-decoration: none;
+display: block;
 }
