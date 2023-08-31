@@ -39,3 +39,7 @@ display: block;
   background-color: transparent;
   border: 2px;
 }
+
+.botao {
+  width: 70%;
+}
