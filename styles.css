@@ -25,19 +25,21 @@ body {
   height: 100vh;
   display: grid;
   grid-template-columns: 50% 50%;
-  
+
 }
+
 .container__botao {
   background-color: var(--botao-azul);
   border-radius: 20px;
   padding: 0.5em;
   color: var(--branco-principal);
-text-decoration: none;
-display: block;
+  text-decoration: none;
+  display: block;
 }
-.botao_secundario{
+
+.botao_secundario {
   background-color: transparent;
-  border: 2px;
+  border: 2px solid white;
 }
 
 .botao {
