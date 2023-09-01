@@ -45,3 +45,13 @@ body {
 .botao {
   width: 70%;
 }
+
+.container__titulo {
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.container__aviso {
+  font-size: 12px;
+  color: var(--cinza-secundario);
+}
