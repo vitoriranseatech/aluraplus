@@ -69,16 +69,20 @@ body {
   text-align: center;
 }
 
-.container__botao{principal
+.container__botao{
   margin-bottom: 0.5em;
 }
 
 .img2 {
   margin: 0 auto;
 }
-.segundario {
-  align-items: center;
+
+.container_secundario {
   margin: 0 10em;
+}
+
+.segundario {
+  align-items: center;  
   background-image: url("https://i0.wp.com/njstempathways.org/wp-content/uploads/2019/03/4k-wallpaper-blue-sky-blur-281260.jpg?ssl=1");
   background-repeat: no-repeat;
   background-size: cover;
