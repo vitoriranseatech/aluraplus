@@ -72,3 +72,7 @@ body {
 .container__botao{
   margin-bottom: 0.5em;
 }
+
+.img2 {
+  margem: 0 auto;
+}
