@@ -101,6 +101,9 @@ body {
   color: white;
   line-height: 150%;
 }
+.container__descricao {
+  padding: 2em;
+}
 
 
 
