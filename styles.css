@@ -90,3 +90,21 @@ body {
 .segundario__imagem{
   width: 80%;
 }
+
+.descricao__titulo {
+  font-weight: 700;
+  font-size: 48px;
+
+  margin-bottom: 0.1em;
+}
+.descricao__texto{
+  color: darkgray;
+  line-height: 150%;
+}
+
+
+
+
+
+
+  
