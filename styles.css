@@ -99,7 +99,8 @@ body {
 }
 .descricao__texto{
   color: white;
-  line-height: 150%;
+  line-height: 125%;
+  font-size: 20px
 }
 .container__descricao {
   padding: 2em;
