@@ -109,4 +109,14 @@ body {
 
 .dispositivos__lista {
   display: flex;
+  justify-content: space-around;
+}
+
+.dispositivos{
+  text-align: center;
+}
+
+.descricao__titulo{
+  text-align: center;
+  font-size: 12px;
 }
