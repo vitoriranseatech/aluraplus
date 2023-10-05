@@ -114,9 +114,15 @@ body {
 
 .dispositivos{
   text-align: center;
+  background-color: #0189ff;
 }
 
 .descricao__titulo{
   text-align: center;
   font-size: 12px;
+}
+
+footer{
+  background-color: #3c92fa;
+  text-align: center;
 }
