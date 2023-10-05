@@ -125,11 +125,22 @@ body {
 footer{
   background-color:#0189ff;
   text-align: center;
-
+  margin: 1em 0;
 }
+
+
 .link{
   display: flex;
   justify-content: space-around;
+  margin: 1em 0;
+}
+
+
+ul li a {
   color: #f716b4;
   text-decoration: none;
+}
+
+.texto{
+  padding: 3em 0;
 }
