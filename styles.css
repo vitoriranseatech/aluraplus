@@ -129,4 +129,5 @@ footer{
 }
 .link{
   display: flex;
+  text-align: center;
 }
