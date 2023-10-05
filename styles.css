@@ -125,4 +125,8 @@ body {
 footer{
   background-color:#0189ff;
   text-align: center;
+
+}
+.link{
+  display: flex;
 }
