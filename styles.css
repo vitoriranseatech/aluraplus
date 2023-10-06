@@ -144,3 +144,19 @@ ul li a {
 .texto{
   padding: 3em 0;
 }
+
+.container_secundario {
+  /* background-image: url("img/barbiePlanoDeFundo.png"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: rgb(97, 201, 255);
+  background: linear-gradient(0deg, rgba(97, 201, 255, 1) 0%, rgba(1, 131, 255, 1) 50%, rgba(1, 116, 250, 1) 100%);
+}
+
+.secundario_invertido {
+  /* background-image: url("img/barbiePlanoFundo3.png"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: rgb(1, 116, 250);
+  background: linear-gradient(0deg, rgba(1, 116, 250, 1) 0%, rgba(1, 131, 255, 1) 50%, rgba(97, 201, 255, 1) 100%);
+}
